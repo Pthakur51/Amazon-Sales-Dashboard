@@ -26,9 +26,10 @@ This project is an interactive Amazon Sales Dashboard developed using Microsoft 
 
 > This dashboard is created for educational and portfolio purposes using a publicly available dataset from Kaggle.
 
-## Dashboard Preview
+## Dashboard Preview<img width="672" height="857" alt="dashboard" src="https://github.com/user-attachments/assets/fa1f1de1-94ee-4d31-a4dd-8c80e14e07c6" />
 
-![Dashboard](Dashboard.png)
+
+
 
 ## Author
 **Palak Thakur**
